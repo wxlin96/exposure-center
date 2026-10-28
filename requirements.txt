@@ -1,0 +1,8 @@
+# Python 3.10+
+fastapi>=0.100
+uvicorn[standard]>=0.23
+redis>=5.0
+SQLAlchemy>=2.0
+PyMySQL>=1.0
+httpx>=0.24
+pydantic>=2.0
